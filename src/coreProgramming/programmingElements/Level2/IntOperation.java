@@ -1,0 +1,19 @@
+//2.	Write an IntOperation program by taking a, b, and c as input values
+
+import java.util.*;
+public class IntOperation {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter three integers: ");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+
+        int res1 = a + b * c;
+        int res2 = a * b + c;
+        int res3 = c + a / b;
+        int res4 = a % b + c;
+
+        System.out.printf("The results of Int Operations are %d, %d, %d, and %d", res1, res2, res3, res4);
+    }
+}
