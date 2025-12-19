@@ -1,4 +1,4 @@
-//3, Multiplication table of a number
+package coreProgramming.arrays.Level1;//3, Multiplication table of a number
 
 
 import java.util.*;

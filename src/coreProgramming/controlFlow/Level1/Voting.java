@@ -1,4 +1,4 @@
-//5. Write a program to check whether a person can vote
+package coreProgramming.controlFlow.Level1;//5. Write a program to check whether a person can vote
 
 import java.util.Scanner;
 class Voting {

@@ -1,4 +1,4 @@
-//5.	Temperature Conversion from Fahrenheit to Celsius
+package coreProgramming.programmingElements.Level2;//5.	Temperature Conversion from Fahrenheit to Celsius
 
 import java.util.*;
 public class FareToCel {

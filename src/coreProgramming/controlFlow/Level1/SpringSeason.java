@@ -1,4 +1,4 @@
-//7. Write a program SpringSeason
+package coreProgramming.controlFlow.Level1;//7. Write a program SpringSeason
 
 class SpringSeason {
     public static void main(String[] args) {

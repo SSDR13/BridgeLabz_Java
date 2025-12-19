@@ -1,4 +1,4 @@
-//4. Write a program to check for the natural number and find the sum
+package coreProgramming.controlFlow.Level1;//4. Write a program to check for the natural number and find the sum
 
 import java.util.Scanner;
 class SumNatural {

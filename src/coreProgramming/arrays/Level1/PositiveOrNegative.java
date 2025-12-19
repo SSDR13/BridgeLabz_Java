@@ -1,4 +1,4 @@
-
+package coreProgramming.arrays.Level1;
 //2. Check whether a number is Positive,  Negative, or Zero
 
 import java.util.*;

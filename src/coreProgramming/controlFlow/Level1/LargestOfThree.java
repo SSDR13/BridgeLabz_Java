@@ -1,4 +1,4 @@
-//3. Write a program to check if the first, second, or third number is the largest
+package coreProgramming.controlFlow.Level1;//3. Write a program to check if the first, second, or third number is the largest
 
 import java.util.Scanner;
 class LargestOfThree {

@@ -1,4 +1,4 @@
-//15. Factorial using for loop
+package coreProgramming.controlFlow.Level1;//15. Factorial using for loop
 
 import java.util.Scanner;
 class FactorialFor {

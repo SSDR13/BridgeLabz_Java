@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package coreProgramming.methods.Level2;
 
 public class RandomNumbers {
     public static int[] generate4DigitRandomArray(int size) {

@@ -1,4 +1,4 @@
-//5. Multiplication table of a number (6-9)
+package coreProgramming.arrays.Level1;//5. Multiplication table of a number (6-9)
 
 import java.util.*;
 

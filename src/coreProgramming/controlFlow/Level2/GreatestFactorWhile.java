@@ -1,4 +1,4 @@
-//10. Greatest factor beside itself using while loop
+package coreProgramming.controlFlow.Level2;//10. Greatest factor beside itself using while loop
 
 import java.util.Scanner;
 class GreatestFactorWhile {

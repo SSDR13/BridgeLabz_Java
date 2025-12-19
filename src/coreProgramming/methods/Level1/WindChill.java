@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level1;
+
 public class WindChill {
     public static double calculateWindChill(double temperature, double windSpeed) {
         return 35.74 + 0.6215 * temperature +

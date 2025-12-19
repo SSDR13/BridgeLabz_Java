@@ -1,4 +1,4 @@
-//6. Program to Count Number of Digits in an Integer
+package coreProgramming.controlFlow.Level3;//6. Program to Count Number of Digits in an Integer
 
 import java.util.Scanner;
 class CountDigits {

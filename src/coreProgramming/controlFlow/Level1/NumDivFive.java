@@ -1,4 +1,4 @@
-
+package coreProgramming.controlFlow.Level1;
 //1. Write a program to check if a number is divisible by 5
 
 import java.util.Scanner;

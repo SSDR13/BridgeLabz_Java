@@ -1,4 +1,4 @@
-//2. Write a program to check if the first is the smallest of the 3 numbers
+package coreProgramming.controlFlow.Level1;//2. Write a program to check if the first is the smallest of the 3 numbers
 
 import java.util.Scanner;
 class FirstSmallest {

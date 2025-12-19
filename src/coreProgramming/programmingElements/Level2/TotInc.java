@@ -1,4 +1,5 @@
-//6.	Create a program to find the total income of a person by taking salary and bonus
+package coreProgramming.programmingElements.Level2;
+
 import java.util.Scanner;
 public class TotInc {
     public static void main(String[] args){
@@ -6,7 +7,7 @@ public class TotInc {
 
         System.out.print("Enter your Salary: ");
         int salary = sc.nextInt();
-        System.out.print("Enter your Bonus: ");
+        System.out.print("Enter your coreProgramming.controlFlow.Level1.Bonus: ");
         int bonus = sc.nextInt();
 
         int totalIncome = salary + bonus;

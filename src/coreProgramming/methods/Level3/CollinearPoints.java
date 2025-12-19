@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level3;
+
 import java.util.Scanner;
 
 public class CollinearPoints {

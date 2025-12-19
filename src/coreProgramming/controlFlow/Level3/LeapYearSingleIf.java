@@ -1,4 +1,4 @@
-//2. Leap Year program using a single if condition with logical operators
+package coreProgramming.controlFlow.Level3;//2. Leap Year program using a single if condition with logical operators
 
 import java.util.Scanner;
 class LeapYearSingleIf {

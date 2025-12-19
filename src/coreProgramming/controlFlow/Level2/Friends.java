@@ -1,4 +1,4 @@
-//6. Youngest and tallest among Amar, Akbar, and Anthony
+package coreProgramming.controlFlow.Level2;//6. Youngest and tallest among Amar, Akbar, and Anthony
 
 import java.util.Scanner;
 class Friends {

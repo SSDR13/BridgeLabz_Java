@@ -1,4 +1,4 @@
-//6. Write a program to check whether a number is positive, negative, or zero
+package coreProgramming.controlFlow.Level1;//6. Write a program to check whether a number is positive, negative, or zero
 
 import java.util.Scanner;
 class NumberCheck {
