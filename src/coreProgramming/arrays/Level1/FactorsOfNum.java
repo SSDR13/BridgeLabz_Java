@@ -1,5 +1,4 @@
-//8. Factors of a number
-
+package coreProgramming.arrays.Level1;//8. coreProgramming.methods.Level2.Factors of a number
 import java.util.Scanner;
 
 public class FactorsOfNum {
@@ -29,7 +28,7 @@ public class FactorsOfNum {
             }
         }
 
-        System.out.print("Factors of " + number + ": ");
+        System.out.print("coreProgramming.methods.Level2.Factors of " + number + ": ");
         for (int i = 0; i < index; i++) {
             System.out.print(factors[i] + " ");
         }

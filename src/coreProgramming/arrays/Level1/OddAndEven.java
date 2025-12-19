@@ -1,4 +1,4 @@
-//7. To save Odd and Even numbers into Odd and Even Arrays
+package coreProgramming.arrays.Level1;//7. To save Odd and Even numbers into Odd and Even Arrays
 import java.util.*;
 
 public class OddAndEven {

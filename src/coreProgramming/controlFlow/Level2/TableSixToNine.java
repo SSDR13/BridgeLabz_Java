@@ -1,4 +1,4 @@
-//3. Multiplication table of a number from 6 to 9
+package coreProgramming.controlFlow.Level2;//3. Multiplication table of a number from 6 to 9
 
 import java.util.Scanner;
 class TableSixToNine {

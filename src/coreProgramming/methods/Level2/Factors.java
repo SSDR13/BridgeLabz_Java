@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level2;
+
 import java.util.Scanner;
 
 public class Factors {
@@ -39,7 +41,7 @@ public class Factors {
         int num = sc.nextInt();
 
         int[] factors = findFactors(num);
-        System.out.print("Factors: ");
+        System.out.print("Factors : ");
         for (int f : factors) System.out.print(f + " ");
 
         System.out.println("\nSum of factors: " + sumFactors(factors));

@@ -1,4 +1,4 @@
-//1. Print odd and even numbers between 1 to the number entered
+package coreProgramming.controlFlow.Level2;//1. Print odd and even numbers between 1 to the number entered
 
 import java.util.Scanner;
 class OddEvenLevel2 {

@@ -1,3 +1,4 @@
+package coreProgramming.controlFlow.Level3;
 //11. DayOfWeek Program
 
 class DayOfWeek {

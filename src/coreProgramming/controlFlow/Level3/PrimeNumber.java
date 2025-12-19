@@ -1,4 +1,4 @@
-//4. Prime Number Program
+package coreProgramming.controlFlow.Level3;//4. Prime Number Program
 
 import java.util.Scanner;
 class PrimeNumber {

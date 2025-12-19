@@ -1,4 +1,4 @@
-//8. Harshad Number Program
+package coreProgramming.controlFlow.Level3;//8. Harshad Number Program
 import java.util.Scanner;
 class HarshadNumber {
     public static void main(String[] args) {

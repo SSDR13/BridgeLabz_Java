@@ -1,4 +1,4 @@
-//3. Program to calculate percentage, grade, and remarks
+package coreProgramming.controlFlow.Level3;//3. Program to calculate percentage, grade, and remarks
 
 import java.util.Scanner;
 class GradeCalculation {

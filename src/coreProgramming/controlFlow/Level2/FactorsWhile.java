@@ -1,4 +1,4 @@
-//8. Find factors of a number using while loop
+package coreProgramming.controlFlow.Level2;//8. Find factors of a number using while loop
 
 import java.util.Scanner;
 class FactorsWhile {

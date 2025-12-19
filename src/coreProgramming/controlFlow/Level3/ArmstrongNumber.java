@@ -1,4 +1,4 @@
-//5. Armstrong Number Program
+package coreProgramming.controlFlow.Level3;//5. Armstrong Number Program
 
 import java.util.Scanner;
 class ArmstrongNumber {

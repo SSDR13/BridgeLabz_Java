@@ -1,4 +1,4 @@
-//9. Greatest factor beside itself using for loop
+package coreProgramming.controlFlow.Level2;//9. Greatest factor beside itself using for loop
 
 import java.util.Scanner;
 class GreatestFactorFor {

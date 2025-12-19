@@ -1,4 +1,4 @@
-//12. Sum of n natural numbers using while loop
+package coreProgramming.controlFlow.Level1;//12. Sum of n natural numbers using while loop
 
 import java.util.Scanner;
 class SumCompareWhile {

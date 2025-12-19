@@ -1,4 +1,4 @@
-//4. FizzBuzz using for loop
+package coreProgramming.controlFlow.Level2;//4. coreProgramming.arrays.Level1.FizzBuzz using for loop
 
 import java.util.Scanner;
 class FizzBuzzFor {
@@ -8,7 +8,7 @@ class FizzBuzzFor {
         if (n > 0) {
             for (int i = 1; i <= n; i++) {
                 if (i % 3 == 0 && i % 5 == 0)
-                    System.out.println("FizzBuzz");
+                    System.out.println("coreProgramming.arrays.Level1.FizzBuzz");
                 else if (i % 3 == 0)
                     System.out.println("Fizz");
                 else if (i % 5 == 0)

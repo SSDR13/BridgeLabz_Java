@@ -1,4 +1,4 @@
-//Height in centimeters and converts it into feet and inches
+package coreProgramming.programmingElements.Level1;//Height in centimeters and converts it into feet and inches
 
 import java.util.*;
 public class CmToFeet {

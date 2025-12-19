@@ -1,4 +1,4 @@
-//7.	Create a program to swap two numbers
+package coreProgramming.programmingElements.Level2;//7.	Create a program to swap two numbers
 
 import java.util.*;
 public class SwapTwo {

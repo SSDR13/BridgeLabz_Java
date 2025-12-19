@@ -1,4 +1,4 @@
-//18. Multiplication table from 6 to 9
+package coreProgramming.controlFlow.Level1;//18. Multiplication table from 6 to 9
 
 import java.util.Scanner;
 class MultiplicationTables {

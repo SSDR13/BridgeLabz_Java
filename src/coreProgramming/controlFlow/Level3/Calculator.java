@@ -1,3 +1,4 @@
+package coreProgramming.controlFlow.Level3;
 //10. Calculator Program using switch…case
 
 import java.util.Scanner;
