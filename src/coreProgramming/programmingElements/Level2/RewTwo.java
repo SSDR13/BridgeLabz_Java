@@ -1,4 +1,4 @@
-//8.	Rewrite the Sample Program 2 with user inputs
+package coreProgramming.programmingElements.Level2;//8.	Rewrite the Sample Program 2 with user inputs
 
 import java.util.*;
 

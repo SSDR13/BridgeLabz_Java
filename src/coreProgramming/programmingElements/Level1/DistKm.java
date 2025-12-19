@@ -1,4 +1,4 @@
-//8.	To convert distance in kilometers to miles (User input)
+package coreProgramming.programmingElements.Level1;//8.	To convert distance in kilometers to miles (User input)
 
 import java.util.Scanner;
 public class DistKm{

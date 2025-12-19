@@ -1,4 +1,4 @@
-//9. Multi-Dimensional Arrays
+package coreProgramming.arrays.Level1;//9. Multi-Dimensional Arrays
 
 import java.util.Arrays;
 import java.util.Scanner;

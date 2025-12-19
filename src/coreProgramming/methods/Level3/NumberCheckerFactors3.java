@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level3;
+
 import java.util.Arrays;
 
 public class NumberCheckerFactors3 {
@@ -6,7 +8,7 @@ public class NumberCheckerFactors3 {
 
         int[] factors = findFactors(number);
 
-        System.out.println("Factors: " + Arrays.toString(factors));
+        System.out.println("coreProgramming.methods.Level2.Factors: " + Arrays.toString(factors));
         System.out.println("Greatest factor: " + greatestFactor(factors));
         System.out.println("Sum of factors: " + sumFactors(factors));
         System.out.println("Product of factors: " + productFactors(factors));

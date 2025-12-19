@@ -1,3 +1,5 @@
+package coreProgramming.arrays.Level2;
+
 import java.util.Scanner;
 public class StudentGrades2D{
     public static void main(String[] args) {

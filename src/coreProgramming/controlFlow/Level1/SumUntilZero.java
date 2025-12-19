@@ -1,4 +1,4 @@
-//10. Find the sum of numbers until the user enters 0
+package coreProgramming.controlFlow.Level1;//10. Find the sum of numbers until the user enters 0
 
 import java.util.Scanner;
 

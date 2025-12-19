@@ -1,4 +1,4 @@
-//FizzBuzz
+package coreProgramming.arrays.Level1;
 
 import java.util.Scanner;
 public class FizzBuzz {

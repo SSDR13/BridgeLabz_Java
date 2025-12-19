@@ -1,4 +1,4 @@
-//1. Check whether the student can vote depending on his/her age
+package coreProgramming.arrays.Level1;//1. Check whether the student can vote depending on his/her age
 
 
 import java.util.*;

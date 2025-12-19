@@ -1,4 +1,4 @@
-//11. Find all multiples of a number below 100 using for loop
+package coreProgramming.controlFlow.Level2;//11. Find all multiples of a number below 100 using for loop
 
 import java.util.Scanner;
 class MultiplesBelow100For {

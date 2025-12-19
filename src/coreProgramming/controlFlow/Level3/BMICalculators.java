@@ -1,4 +1,4 @@
-//7. Program to Calculate BMI and Determine Weight Status
+package coreProgramming.controlFlow.Level3;//7. Program to Calculate BMI and Determine Weight Status
 
 import java.util.Scanner;
 class BMICalculators {

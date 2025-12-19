@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level1;
+
 public class Trigonometry {
     public static double[] calculateTrigonometricFunctions(double angle) {
         double radians = Math.toRadians(angle);

@@ -1,4 +1,4 @@
-//8. Countdown using while loop
+package coreProgramming.controlFlow.Level1;//8. Countdown using while loop
 
 import java.util.Scanner;
 class CountdownWhile {

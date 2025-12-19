@@ -1,3 +1,5 @@
+package coreProgramming.methods.Level1;
+
 public class SpringSeasonCheck {
     public static boolean isSpringSeason(int month, int day) {
         return (month == 3 && day >= 20) ||

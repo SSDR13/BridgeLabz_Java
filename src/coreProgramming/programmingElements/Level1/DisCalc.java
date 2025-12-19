@@ -1,4 +1,4 @@
-//9.	University fees Discount calculation (User input)
+package coreProgramming.programmingElements.Level1;//9.	University fees Discount calculation (User input)
 
 import java.util.*;
 public class DisCalc {

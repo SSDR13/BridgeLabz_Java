@@ -1,4 +1,4 @@
-//13. Sum of n natural numbers using for loop
+package coreProgramming.controlFlow.Level1;//13. Sum of n natural numbers using for loop
 
 import java.util.Scanner;
 class SumCompareFor {

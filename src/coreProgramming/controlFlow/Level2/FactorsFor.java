@@ -1,4 +1,4 @@
-//7. Find factors of a number using for loop
+package coreProgramming.controlFlow.Level2;//7. Find factors of a number using for loop
 
 import java.util.Scanner;
 class FactorsFor {

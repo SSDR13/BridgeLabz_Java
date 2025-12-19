@@ -1,4 +1,4 @@
-//5. FizzBuzz using while loop
+package coreProgramming.controlFlow.Level2;//5. coreProgramming.arrays.Level1.FizzBuzz using while loop
 
 import java.util.Scanner;
 class FizzBuzzWhile {
@@ -9,7 +9,7 @@ class FizzBuzzWhile {
         if (n > 0) {
             while (i <= n) {
                 if (i % 3 == 0 && i % 5 == 0)
-                    System.out.println("FizzBuzz");
+                    System.out.println("coreProgramming.arrays.Level1.FizzBuzz");
                 else if (i % 3 == 0)
                     System.out.println("Fizz");
                 else if (i % 5 == 0)

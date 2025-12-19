@@ -1,4 +1,4 @@
-//14. Find the power of a number using while loop
+package coreProgramming.controlFlow.Level2;//14. Find the power of a number using while loop
 
 import java.util.Scanner;
 class PowerWhile {

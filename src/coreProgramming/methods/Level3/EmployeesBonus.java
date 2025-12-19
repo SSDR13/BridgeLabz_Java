@@ -1,5 +1,6 @@
+package coreProgramming.methods.Level3;
+
 import java.util.Random;
-import java.util.Arrays;
 
 public class EmployeesBonus {
 
@@ -18,8 +19,8 @@ public class EmployeesBonus {
         // Step 2: Calculate bonus and new salary
         double[][] newData = calculateBonus(employeeData);
 
-        System.out.println("\nEmployee Data (Old Salary, Bonus, New Salary):");
-        System.out.printf("%-10s %-15s %-10s %-15s\n", "Employee", "Old Salary", "Bonus", "New Salary");
+        System.out.println("\nEmployee Data (Old Salary, coreProgramming.controlFlow.Level1.Bonus, New Salary):");
+        System.out.printf("%-10s %-15s %-10s %-15s\n", "Employee", "Old Salary", "coreProgramming.controlFlow.Level1.Bonus", "New Salary");
         for (int i = 0; i < numEmployees; i++) {
             System.out.printf("%-10d %-15.2f %-10.2f %-15.2f\n",
                     i+1, employeeData[i][0], newData[i][1], newData[i][0]);
@@ -83,7 +84,7 @@ public class EmployeesBonus {
 
         System.out.println("\nSummary:");
         System.out.printf("Total Old Salary: %.2f\n", totalOldSalary);
-        System.out.printf("Total Bonus Paid: %.2f\n", totalBonus);
+        System.out.printf("Total coreProgramming.controlFlow.Level1.Bonus Paid: %.2f\n", totalBonus);
         System.out.printf("Total New Salary: %.2f\n", totalNewSalary);
     }
 }

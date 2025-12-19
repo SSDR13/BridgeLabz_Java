@@ -1,4 +1,4 @@
-//14. Factorial using while loop
+package coreProgramming.controlFlow.Level1;//14. Factorial using while loop
 
 import java.util.Scanner;
 class FactorialWhile {

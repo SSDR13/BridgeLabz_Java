@@ -1,4 +1,4 @@
-//2. Find the bonuses of employees based on years of service
+package coreProgramming.controlFlow.Level2;//2. Find the bonuses of employees based on years of service
 
 import java.util.Scanner;
 class EmployeeBonusDay2 {

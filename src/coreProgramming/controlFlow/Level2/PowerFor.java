@@ -1,4 +1,4 @@
-//12. Find the power of a number using for loop
+package coreProgramming.controlFlow.Level2;//12. Find the power of a number using for loop
 
 import java.util.Scanner;
 class PowerFor {

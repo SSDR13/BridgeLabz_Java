@@ -1,4 +1,4 @@
-//3.	Convert the distance from kilometers to miles
+package coreProgramming.programmingElements.Level1;//3.	Convert the distance from kilometers to miles
 
 public class KilomToMiles {
     public static void main(String[] args) {

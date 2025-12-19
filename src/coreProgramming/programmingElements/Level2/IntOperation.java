@@ -1,4 +1,5 @@
-//2.	Write an IntOperation program by taking a, b, and c as input values
+package coreProgramming.programmingElements.Level2;
+//2.	Write anIntOperation program by taking a, b, and c as input values
 
 import java.util.*;
 public class IntOperation {

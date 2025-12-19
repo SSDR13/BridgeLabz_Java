@@ -1,4 +1,4 @@
-//11. Sum until user enters 0 or negative
+package coreProgramming.controlFlow.Level1;//11. Sum until user enters 0 or negative
 
 import java.util.Scanner;
 class SumUntilBreak {

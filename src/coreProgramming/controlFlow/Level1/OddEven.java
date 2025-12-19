@@ -1,4 +1,4 @@
-//16. Print odd and even numbers
+package coreProgramming.controlFlow.Level1;//16. Print odd and even numbers
 
 import java.util.Scanner;
 class OddEven {
