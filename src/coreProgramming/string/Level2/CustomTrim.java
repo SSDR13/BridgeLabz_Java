@@ -1,25 +1,43 @@
 package coreProgramming.string.Level2;
+import java.util.Scanner;
 
-class CustomTrim {
+public class CustomTrim {
 
-    static int[] trimIndexes(String s) {
-        int start = 0, end = s.length() - 1;
-        while (s.charAt(start) == ' ') start++;
-        while (s.charAt(end) == ' ') end--;
+    public static int[] findTrimIndexes(String str) {
+        int start = 0, end = str.length() - 1;
+        while (start < str.length() && str.charAt(start) == ' ') start++;
+        while (end >= 0 && str.charAt(end) == ' ') end--;
         return new int[]{start, end};
     }
 
-    static String substring(String s, int start, int end) {
-        String res = "";
-        for (int i = start; i <= end; i++)
-            res += s.charAt(i);
-        return res;
+    public static String customSubstring(String str, int start, int end) {
+        String result = "";
+        for (int i = start; i <= end; i++) {
+            result += str.charAt(i);
+        }
+        return result;
     }
 
-    static boolean compare(String a, String b) {
-        if (a.length() != b.length()) return false;
-        for (int i = 0; i < a.length(); i++)
-            if (a.charAt(i) != b.charAt(i)) return false;
+    public static boolean compareStrings(String s1, String s2) {
+        if (s1.length() != s2.length()) return false;
+        for (int i = 0; i < s1.length(); i++) {
+            if (s1.charAt(i) != s2.charAt(i)) return false;
+        }
         return true;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a string with spaces: ");
+        String input = sc.nextLine();
+        int[] indexes = findTrimIndexes(input);
+
+        String trimmedCustom = customSubstring(input, indexes[0], indexes[1]);
+        String trimmedBuiltIn = input.trim();
+
+        System.out.println("Custom Trim: [" + trimmedCustom + "]");
+        System.out.println("Built-in Trim: [" + trimmedBuiltIn + "]");
+        System.out.println("Comparison: " + compareStrings(trimmedCustom, trimmedBuiltIn));
+        sc.close();
     }
 }
