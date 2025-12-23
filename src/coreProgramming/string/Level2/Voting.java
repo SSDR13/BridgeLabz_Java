@@ -1,20 +1,38 @@
 package coreProgramming.string.Level2;
+import java.util.Random;
 
-class Voting {
+public class Voting {
 
-    static int[] generateAges(int n) {
+    public static int[] generateAges(int n) {
+        Random rand = new Random();
         int[] ages = new int[n];
-        for (int i = 0; i < n; i++)
-            ages[i] = (int)(Math.random() * 100);
+        for (int i = 0; i < n; i++) {
+            ages[i] = rand.nextInt(90) + 10;
+        }
         return ages;
     }
 
-    static String[][] canVote(int[] ages) {
-        String[][] res = new String[ages.length][2];
+    public static String[][] checkVotingEligibility(int[] ages) {
+        String[][] result = new String[ages.length][2];
         for (int i = 0; i < ages.length; i++) {
-            res[i][0] = String.valueOf(ages[i]);
-            res[i][1] = (ages[i] >= 18) ? "true" : "false";
+            result[i][0] = String.valueOf(ages[i]);
+            if (ages[i] >= 18 && ages[i] > 0) result[i][1] = "True";
+            else result[i][1] = "False";
         }
-        return res;
+        return result;
+    }
+
+    public static void displayTable(String[][] table) {
+        System.out.println("Age\tCanVote");
+        System.out.println("--------------");
+        for (int i = 0; i < table.length; i++) {
+            System.out.println(table[i][0] + "\t" + table[i][1]);
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] ages = generateAges(10);
+        String[][] result = checkVotingEligibility(ages);
+        displayTable(result);
     }
 }
