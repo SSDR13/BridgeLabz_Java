@@ -1,0 +1,8 @@
+package objectorientedprogramming.inheritance.level1;
+
+public class Dog extends Animal {
+    @Override
+    void makeSound() {
+        System.out.println("Dog barks");
+    }
+}
