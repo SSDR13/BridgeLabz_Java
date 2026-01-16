@@ -1,5 +1,4 @@
-package objectOrientedProgramming.oopfundamentals.level1;
-import java.util.*;
+package objectorientedprogramming.oopfundamentals.level1;
 
 class Circle{
     private double radius;

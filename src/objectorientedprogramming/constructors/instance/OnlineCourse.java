@@ -1,4 +1,4 @@
-package objectOrientedProgramming.constructors.instance;
+package objectorientedprogramming.constructors.instance;
 
 class Course {
     private String courseName;

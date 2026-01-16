@@ -1,5 +1,4 @@
-package objectOrientedProgramming.oopfundamentals.level2;
-import java.util.*;
+package objectorientedprogramming.oopfundamentals.level2;
 
 class PalindromeChecker{
     private String text;

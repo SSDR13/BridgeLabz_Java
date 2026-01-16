@@ -1,4 +1,4 @@
-package objectOrientedProgramming.oopfundamentals.level2;
+package objectorientedprogramming.oopfundamentals.level2;
 import java.util.Scanner;
 
 class BankAccount {

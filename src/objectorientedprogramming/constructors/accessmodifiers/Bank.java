@@ -1,4 +1,4 @@
-package objectOrientedProgramming.constructors.accessmodifiers;
+package objectorientedprogramming.constructors.accessmodifiers;
 
 class BankAccount {
     public int accountNumber;

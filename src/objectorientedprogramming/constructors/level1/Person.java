@@ -1,4 +1,4 @@
-package objectOrientedProgramming.constructors.level1;
+package objectorientedprogramming.constructors.level1;
 
 public class Person {
     private String name;
