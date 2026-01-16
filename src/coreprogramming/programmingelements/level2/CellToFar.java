@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//4.	Temperature Conversion from Celsius to Fahrenheit
+package coreprogramming.programmingelements.level2;//4.	Temperature Conversion from Celsius to Fahrenheit
 import java.util.*;
 public class CellToFar {
     public static void main(String[] args){

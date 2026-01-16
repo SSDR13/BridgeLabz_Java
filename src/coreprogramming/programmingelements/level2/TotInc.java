@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;
+package coreprogramming.programmingelements.level2;
 
 import java.util.Scanner;
 public class TotInc {

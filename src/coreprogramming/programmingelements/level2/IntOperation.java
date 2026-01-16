@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;
+package coreprogramming.programmingelements.level2;
 //2.	Write anIntOperation program by taking a, b, and c as input values
 
 import java.util.*;

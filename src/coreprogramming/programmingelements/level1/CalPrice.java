@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//15.	To calculate the total price
+package coreprogramming.programmingelements.level1;//15.	To calculate the total price
 
 
 import java.util.*;

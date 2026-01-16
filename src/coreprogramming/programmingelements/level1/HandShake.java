@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//16.	Maximum number of handshakes among N
+package coreprogramming.programmingelements.level1;//16.	Maximum number of handshakes among N
 
 import java.util.*;
 public class HandShake{

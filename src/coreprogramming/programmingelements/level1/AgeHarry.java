@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//1.	To find the age of Harry
+package coreprogramming.programmingelements.level1;//1.	To find the age of Harry
 import java.util.Scanner;
 
 public class AgeHarry {

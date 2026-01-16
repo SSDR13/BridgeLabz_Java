@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//10.	Create a program to divide N number of chocolates among M children
+package coreprogramming.programmingelements.level2;//10.	Create a program to divide N number of chocolates among M children
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;// 2.	 The average percent mark in PCM
+package coreprogramming.programmingelements.level1;// 2.	 The average percent mark in PCM
 
 public class AvgMark {
     public static void main(String[] args) {

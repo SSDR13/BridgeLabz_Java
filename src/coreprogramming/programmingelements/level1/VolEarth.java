@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//7.	To compute the volume of Earth in km^3 and miles^3
+package coreprogramming.programmingelements.level1;//7.	To compute the volume of Earth in km^3 and miles^3
 
 import java.lang.*;
 

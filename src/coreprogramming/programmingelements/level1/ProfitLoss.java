@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//4.	To calculate the profit and loss in number and percentage
+package coreprogramming.programmingelements.level1;//4.	To calculate the profit and loss in number and percentage
 
 public class ProfitLoss {
     public static void main(String[] args) {

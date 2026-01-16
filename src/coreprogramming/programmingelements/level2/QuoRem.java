@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//1.	Write a program to take 2 numbers and print their quotient and reminder
+package coreprogramming.programmingelements.level2;//1.	Write a program to take 2 numbers and print their quotient and reminder
 
 
 import java.util.*;

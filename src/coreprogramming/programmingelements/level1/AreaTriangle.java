@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//12.	To find area of a triangle
+package coreprogramming.programmingelements.level1;//12.	To find area of a triangle
 
 import java.util.*;
 

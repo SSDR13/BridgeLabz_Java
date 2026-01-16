@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//11.	Simple Interest
+package coreprogramming.programmingelements.level2;//11.	Simple Interest
 
 import java.util.*;
 

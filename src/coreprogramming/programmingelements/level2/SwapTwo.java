@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//7.	Create a program to swap two numbers
+package coreprogramming.programmingelements.level2;//7.	Create a program to swap two numbers
 
 import java.util.*;
 public class SwapTwo {

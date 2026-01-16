@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//6.	University fees Discount calculation
+package coreprogramming.programmingelements.level1;//6.	University fees Discount calculation
 
 public class FeeDisc {
     public static void main(String[] args) {

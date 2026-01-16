@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//3.	Write the DoubleOpt program by taking double values
+package coreprogramming.programmingelements.level2;//3.	Write the DoubleOpt program by taking double values
 
 import java.util.*;
 public class DoubleOpt {

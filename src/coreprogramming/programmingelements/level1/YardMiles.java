@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//14.	To find the distance in yards and miles
+package coreprogramming.programmingelements.level1;//14.	To find the distance in yards and miles
 
 import java.util.*;
 public class YardMiles {

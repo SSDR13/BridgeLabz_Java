@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level2;//9.	Number of rounds in a triangular park
+package coreprogramming.programmingelements.level2;//9.	Number of rounds in a triangular park
 
 import java.util.*;
 import java.lang.Math;

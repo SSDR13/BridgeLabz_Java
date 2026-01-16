@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.level1;//13.	Perimeter of Square
+package coreprogramming.programmingelements.level1;//13.	Perimeter of Square
 
 import java.util.*;
 
